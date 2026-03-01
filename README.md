@@ -1,4 +1,4 @@
-# Bakhibekov-Arsen-CV
+# Bakhibekov-Arsen
 <div align="center">
   
 # 🌟 Arsen Bakhitbekov
