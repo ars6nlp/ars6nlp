@@ -28,6 +28,19 @@ I am an independent NLP researcher and developer seeking to align Large Language
     <td align="center">🇨🇳<br><b>Chinese</b><br>(HSK 4)</td>
     <td align="center">🇦🇪<br><b>Arabic</b><br>(A1 - Learning)</td>
     <td align="center">🇰🇷<br><b>Korean</b><br>(A1 - Learning)</td>
+    <td align="center">jp<br><b>Japan</b><br>(A2 - Learning)</td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center">🇰🇿<br><b>Kazakh</b><br>(Native)</td>
+    <td align="center">🇷🇺<br><b>Russian</b><br>(Fluent)</td>
+    <td align="center">🇬🇧<br><b>English</b><br>(Fluent)</td>
+    <td align="center">🇨🇳<br><b>Chinese</b><br>(HSK 4)</td>
+    <td align="center">🇯🇵<br><b>Japanese</b><br>(A2 - Learn)</td>
+    <td align="center">🇰🇷<br><b>Korean</b><br>(A1 - Learn)</td>
+    <td align="center">🇦🇪<br><b>Arabic</b><br>(A1 - Learn)</td>
   </tr>
 </table>
 
