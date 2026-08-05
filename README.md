@@ -88,7 +88,7 @@ I am an independent NLP researcher and developer seeking to align Large Language
   <b><a href="mailto:bakhitbekovv@gmail.com">Let's build the future of localized AI.</a></b>
 </div>
 
-<div align="center">
+
 
 
 
