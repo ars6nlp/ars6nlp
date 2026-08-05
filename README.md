@@ -87,3 +87,97 @@ I am an independent NLP researcher and developer seeking to align Large Language
   <i>The full manuscripts for my research papers are available upon request for interested faculty and researchers. I am always open to connecting.</i><br>
   <b><a href="mailto:bakhitbekovv@gmail.com">Let's build the future of localized AI.</a></b>
 </div>
+
+<div align="center">
+
+# 🌟 Arsen Bakhitbekov
+**11th Grade Student | NLP & Full-Stack Developer | Researcher**
+📍 Almaty, Kazakhstan | ✉️ [bakhitbekovv@gmail.com](mailto:bakhitbekovv@gmail.com) | 🐙 [GitHub Profile](https://github.com/AlexHirsch-eng)
+
+*Building accessible EdTech, researching cross-lingual NLP, and bridging software with physical systems.*
+
+</div>
+
+---
+
+## 🔬 Research Focus & Primary Areas
+I am an 11th-grade student at NIS PhM Almaty passionate about Natural Language Processing (NLP) and software engineering. My work focuses on cross-lingual model alignment, educational technology, and practical machine learning applications.
+
+* **Primary Areas:** Cross-Lingual Model Alignment, EdTech, Applied Machine Learning, IoT Infrastructure.
+* **Goal:** To pursue a B.S. in Computer Science / Software Engineering and build impactful, culturally aligned software.
+
+---
+
+## 🗣️ Languages
+
+<table align="center">
+  <tr>
+    <td align="center">🇰🇿<br><b>Kazakh</b><br>Native</td>
+    <td align="center">🇷🇺<br><b>Russian</b><br>Fluent</td>
+    <td align="center">🇬🇧<br><b>English</b><br>Fluent (C1)</td>
+    <td align="center">🇨🇳<br><b>Chinese</b><br>Intermediate (HSK 3)</td>
+    <td align="center">🇦🇪<br><b>Arabic</b><br>Active Learning</td>
+  </tr>
+</table>
+
+---
+
+## 🔬 Academic Research & Publications
+
+### 1. 🌍 [Cross-Lingual-LLM-Bias](https://github.com/AlexHirsch-eng/research_1) *(Independent Research)*
+*Investigating behavioral and alignment divergence in open-source LLMs (Llama 3, Jais 30B) across English, Russian, Kazakh, and Chinese.*
+* 🔑 **Impact:** Evaluated safety alignment and cultural nuances across multilingual prompts.
+* 🧠 **Tech:** PyTorch, HuggingFace, Jais 30B, Python.
+
+### 2. 📊 Federated Learning Architecture for Student Data Modeling
+*Co-researcher / Data Engineer — (Pending Submission, Scopus: IJACSA)*
+* 🔑 **Impact:** Engineered secure, privacy-preserving data pipelines for a federated machine learning framework.
+
+### 3. 💬 [AI-Business-Chinese-Platform](https://github.com/AlexHirsch-eng/Research-Paper-for-IITU)
+*Presented at "Youth Digital Forum YDF-2026", IITU (Alongside 4th-year University Students)*
+* 🔑 **Impact:** Developed an interactive NLP chatbot simulating trade negotiations to improve conversational language acquisition.
+
+### 4. 🌫️ [PM2.5-Allergy-Monitoring-ML](https://github.com/AlexHirsch-eng/Research-Paper-for-DKU)
+*Presented at XVIII International Student Conference, DKU (Alongside 4th-year University Students)*
+* 🔑 **Impact:** Applied mixed-methods ML to analyze correlations between atmospheric PM2.5 levels and public health trends in Almaty.
+
+---
+
+## 📱 Software Development & Startup Projects
+
+* **PixelPetWidget & Match&Flame (Mobile Apps):** Designed and built full application logic and UI/UX for a custom desktop/mobile widget and an interactive game.
+* **Chinese Language Learning Platform (MVP):** Engineered a web platform exploring scroll-based language learning; launched content channels across TikTok, YouTube, and Instagram for rapid user-feedback loops and market testing.
+* **Startup Competitions & Awards:**
+  * 🥉 **3rd Place Winner:** Google Developer Group (GDG) Contest at KIMEP University.
+  * 🚀 **Regional Startup Qualifier:** Advanced through Stages 1 and 2 in competitive startup pitch evaluations.
+
+---
+
+## 🛠️ Industry Experience
+
+### 🌊 IT Assistant & Support Specialist | Zerbulak Aquapark
+* **IoT Locker Infrastructure:** Maintained smart locker software serving 600+ daily visitors.
+* **Ticketing Logic Optimization:** Collaborated with senior IT staff to refine mobile ticketing app workflows and reduce entry bottlenecks.
+* **User Onboarding:** Acted as a technical guide for visitors, improving digital adoption and overall user experience.
+
+---
+
+## 💡 Leadership & Community Involvement
+
+* 🧩 **Founder & Lead Instructor | Speedcubing Club:** Founded a school club and taught 70+ students (Grades 7–9) solving algorithms for 20+ puzzle variants; organized speed-solving tournaments.
+* 🎵 **Assistant Instructor & Soloist | Dombra Ensemble:** Mentored 7th-grade students in traditional Kazakh kuis as part of the music curriculum and performed as a soloist at major school concerts (including the 10th Anniversary Concert).
+
+---
+
+## 🏔️ Personal Interests & Sports
+
+* 🧗 **Mountaineering:** Active high-altitude hiker across Central Asia (summited Furmanov Peak and routes in Dzungarian Alatau).
+* 🥋 **Martial Arts:** Taekwondo (Regional Silver Medalist, Yellow Belt) & Karate (Orange Belt).
+* 🎨 **Creative Pursuits:** Digital & anime-style illustration, classic literature, and speedcubing.
+
+---
+
+<div align="center">
+  <i>Full manuscripts for research papers are available upon request. Open to collaboration and connecting!</i><br><br>
+  <b><a href="mailto:bakhitbekovv@gmail.com">📫 Get in Touch</a></b>
+</div>
