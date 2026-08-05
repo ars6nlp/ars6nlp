@@ -23,12 +23,12 @@ I am a **12th-grade student** at **Nazarbayev Intellectual School (PhM Almaty)**
 
 <table align="center">
   <tr>
-    <td align="center"><b>🇰🇿 Kazakh</b><br>Native</td>
-    <td align="center"><b>🇷🇺 Russian</b><br>Fluent</td>
-    <td align="center"><b>🇬🇧 English</b><br>Fluent (C1)</td>
-    <td align="center"><b>🇨🇳 Chinese</b><br>Intermediate (HSK 3)</td>
-    <td align="center"><b>🇯🇵 Japanese</b><br>Basic (A2 / Reading)</td>
-    <td align="center"><b>🇦🇪 Arabic</b><br>Beginner (A1)</td>
+    <td align="center"><b> Kazakh</b><br>Native</td>
+    <td align="center"><b> Russian</b><br>Fluent</td>
+    <td align="center"><b> English</b><br>Fluent (C1)</td>
+    <td align="center"><b> Chinese</b><br>Intermediate (HSK 3)</td>
+    <td align="center"><b> Japanese</b><br>Basic (A2 / Reading)</td>
+    <td align="center"><b> Arabic</b><br>Beginner (A1)</td>
   </tr>
 </table>
 
