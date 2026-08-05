@@ -131,23 +131,23 @@ I am a **12th-grade student** at **Nazarbayev Intellectual School (PhM Almaty)**
 
 ## 📑 Academic AI Research & Presentations
 
-### 1. [Cross-Lingual-LLM-Bias](https://github.com/AlexHirsch-eng/research_1) *(Independent AI Research)*
+### 1. [Cross-Lingual-LLM-Bias](https://github.com/AlexHirsch-eng/research_1) (Independent AI Research)
 *Investigating behavioral and safety divergence in open-source LLMs (**Llama 3**, **Jais 30B**) across English, Russian, Kazakh, and Chinese.*
 * **Impact:** Quantified safety alignment divergences and response consistency across multilingual prompts.
 * **Tech:** PyTorch, HuggingFace Transformers, Jais 30B, Python.
 
 ### 2. Federated Learning Architecture for Student Data Modeling
-*Co-researcher / Data Engineer — (**Pending Submission, Scopus: IJACSA**)*
+*Co-researcher / Data Engineer (Pending Submission, **Scopus: IJACSA**)*
 * **Impact:** Engineered privacy-preserving data pipelines for a federated machine learning framework.
 
 ### 3. [AI-Business-Chinese-Platform](https://github.com/AlexHirsch-eng/Research-Paper-for-IITU)
 *Presented at **"Youth Digital Forum YDF-2026", IITU** (International IT University)*
-* **Impact:** Built an interactive NLP chatbot simulating real-world trade negotiations. **Presented research alongside 4th-year university students.**
+* **Impact:** Engineered an interactive NLP chatbot simulating trade negotiations; **selected to present research alongside 4th-year university undergraduates**.
 * **Tech:** Next.js, Conversational AI Frameworks, Chinese NLP.
 
 ### 4. [PM2.5-Allergy-Monitoring-ML](https://github.com/AlexHirsch-eng/Research-Paper-for-DKU)
 *Presented at **XVIII International Student Conference, DKU** (Kazakh-German University)*
-* **Impact:** Applied machine learning to analyze correlations between $PM_{2.5}$ atmospheric levels and health trends in Almaty. **Presented alongside 4th-year university students.**
+* **Impact:** Applied machine learning to correlate $PM_{2.5}$ atmospheric levels with public health trends in Almaty; **co-presented at a senior student conference**.
 
 ---
 
