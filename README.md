@@ -23,12 +23,12 @@ I am a **12th-grade student** at **Nazarbayev Intellectual School (PhM Almaty)**
 
 <table align="center">
   <tr>
-    <td align="center">🇰🇿<br><b>Kazakh</b><br>Native</td>
-    <td align="center">🇷🇺<br><b>Russian</b><br>Fluent</td>
-    <td align="center">🇬🇧<br><b>English</b><br>Fluent (C1)</td>
-    <td align="center">🇨🇳<br><b>Chinese</b><br>Intermediate (HSK 3)</td>
-    <td align="center">🇯🇵<br><b>Japanese</b><br>Basic (A2 / Reading)</td>
-    <td align="center">🇦🇪<br><b>Arabic</b><br>Beginner (Learning)</td>
+    <td align="center"><b>🇰🇿 Kazakh</b><br>Native</td>
+    <td align="center"><b>🇷🇺 Russian</b><br>Fluent</td>
+    <td align="center"><b>🇬🇧 English</b><br>Fluent (C1)</td>
+    <td align="center"><b>🇨🇳 Chinese</b><br>Intermediate (HSK 3)</td>
+    <td align="center"><b>🇯🇵 Japanese</b><br>Basic (A2 / Reading)</td>
+    <td align="center"><b>🇦🇪 Arabic</b><br>Beginner (A1)</td>
   </tr>
 </table>
 
@@ -41,25 +41,25 @@ I am a **12th-grade student** at **Nazarbayev Intellectual School (PhM Almaty)**
 * **Impact:** Quantified safety alignment divergences and response consistency across multilingual prompts.
 * **Tech:** PyTorch, HuggingFace Transformers, Jais 30B, Python.
 
-### 2. Federated Learning Architecture for Student Data Modeling
-*Co-researcher / Data Engineer (Pending Submission, **Scopus: IJACSA**)*
-* **Impact:** Engineered privacy-preserving data pipelines for a federated machine learning framework.
-
-### 3. [AI-Business-Chinese-Platform](https://github.com/AlexHirsch-eng/Research-Paper-for-IITU)
+### 2. [AI-Business-Chinese-Platform](https://github.com/AlexHirsch-eng/Research-Paper-for-IITU)
 *Presented at **"Youth Digital Forum YDF-2026", IITU** (International IT University)*
 * **Impact:** Engineered an interactive NLP chatbot simulating trade negotiations; **selected to present research alongside 4th-year university undergraduates**.
 * **Tech:** Next.js, Conversational AI Frameworks, Chinese NLP.
 
-### 4. [PM2.5-Allergy-Monitoring-ML](https://github.com/AlexHirsch-eng/Research-Paper-for-DKU)
+### 3. [PM2.5-Allergy-Monitoring-ML](https://github.com/AlexHirsch-eng/Research-Paper-for-DKU)
 *Presented at **XVIII International Student Conference, DKU** (Kazakh-German University)*
 * **Impact:** Applied machine learning to correlate $PM_{2.5}$ atmospheric levels with public health trends in Almaty; **co-presented at a senior student conference**.
+
+### 4. Federated Learning Architecture for Student Data Modeling
+*Co-researcher / Data Engineer (Pending Submission, **Scopus: IJACSA**)*
+* **Impact:** Engineered privacy-preserving data pipelines for a federated machine learning framework.
 
 ---
 
 ## 💻 Software Engineering & Startup Projects
 
+* **Chinese Language Learning Platform (Full-Stack Web App):** Built a production-ready EdTech platform featuring video-feed playback, interactive study modules, user profiles, and an integrated **AI Conversational Assistant**. Launched channels on **TikTok, YouTube, and Instagram** for market traction and user feedback.
 * **PixelPetWidget & Match&Flame:** Designed and engineered full application logic and UI/UX for a custom desktop/mobile widget and an interactive game.
-* **Chinese Language Platform (MVP):** Developed an EdTech web application exploring video-scrolling learning; launched channels on **TikTok, YouTube, and Instagram** for market testing and feedback.
 * **Competitions & Startup Awards:**
   * 🏆 **3rd Place Winner:** **Google Developer Group (GDG)** Competition at KIMEP University.
   * 🚀 **Regional Startup Qualifier:** Advanced through **Stages 1 and 2** in regional startup pitch rounds.
@@ -78,7 +78,7 @@ I am a **12th-grade student** at **Nazarbayev Intellectual School (PhM Almaty)**
 ## 👥 Leadership & School Activities
 
 * **Founder & Lead Instructor | Speedcubing Club:** Founded a school club and taught **70+ students** (Grades 7–9) algorithms for **20+ puzzle variants**; organized speed-solving tournaments.
-* **Assistant Instructor & Soloist | Dombra Ensemble:** Mentored 7th-grade classes in traditional Kazakh kuis. Performed as a soloist at major events, including the **10th Anniversary School Concert**.
+* **Assistant Instructor & Soloist | Dombra Ensemble:** Mentored 7th-grade classes in traditional Kazakh kuis. Performed at major events, including the **10th Anniversary School Concert**.
 
 ---
 
@@ -92,5 +92,5 @@ I am a **12th-grade student** at **Nazarbayev Intellectual School (PhM Almaty)**
 
 <div align="center">
   <i>Research manuscripts available upon request. Always open to discussing AI, NLP, and software engineering!</i><br><br>
-  <b><a href="mailto:bakhitbekovv@gmail.com">📫 Connect via Email</a></b>
+  ✉️ <b>Email:</b> <a href="mailto:bakhitbekovv@gmail.com">bakhitbekovv@gmail.com</a>
 </div>
