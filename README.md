@@ -57,7 +57,7 @@ I am a **12th-grade student** at **Nazarbayev Intellectual School (PhM Almaty)**
 ## 💻 Software Engineering & Startup Projects
 
 * **Chinese Language Learning Platform (Full-Stack Web App):** Built a production-ready EdTech platform featuring video-feed playback, interactive study modules, user profiles, and an integrated **AI Conversational Assistant**. Launched channels on **TikTok, YouTube, and Instagram** for market traction and user feedback.
-* **PixelPetWidget & Match&Flame:** Designed and engineered full application logic and UI/UX for a custom desktop/mobile widget and an interactive game.
+* **PixelPetWidget & Match&Flame & BubbleRise:** Designed and engineered full application logic and UI/UX for a custom desktop/mobile widget and an interactive game.
 * **Competitions & Startup Awards:**
   * 🏆 **3rd Place Winner:** **Google Developer Group (GDG)** Competition at KIMEP University.
   * 🚀 **Regional Startup Qualifier:** Advanced through **Stages 1 and 2** in regional startup pitch rounds.
